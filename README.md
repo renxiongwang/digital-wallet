@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Table of Contents
 
 1. [Challenge Summary] (README.md#challenge-summary)
@@ -274,3 +275,6 @@ Generally, we will evaluate your coding challenge with a testing suite that prov
 We receive hundreds of submissions and try to evaluate them all in a timely manner.  We try to get back to all applicants **within two or three weeks of submission**, but if you have a specific deadline that requires expedited review, you may email us at cc@insightdataengineering.com.  
 
 
+=======
+# digital-wallet
+>>>>>>> bbea9fb4c1df57809d2a5263944d70e02de9f938
